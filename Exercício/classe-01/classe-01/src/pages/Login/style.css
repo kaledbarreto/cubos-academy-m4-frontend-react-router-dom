@@ -1,0 +1,19 @@
+h1 {
+  font-size: 45px;
+}
+
+button {
+  all: unset;
+
+  background-color: #ffc08d;
+  width: 200px;
+  height: 35px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+
+  font-weight: bold;
+  cursor: pointer;
+}
